@@ -1,5 +1,7 @@
 # Analisis Sentimen Ulasan McDonald's untuk Menilai Kepuasan Konsumen
 
+![image](https://github.com/user-attachments/assets/c0890712-9f15-4076-a9c4-b004f4edffad)
+
 ## Deskripsi
 Proyek ini bertujuan untuk menganalisis sentimen ulasan pelanggan McDonald's dari platform Google Reviews. Analisis ini menggunakan teknik machine learning dan deep learning untuk memproses ulasan, mengkategorikannya ke dalam tiga kelas utama berdasarkan rating: **positif**, **netral**, dan **negatif**. Sistem ini juga menyediakan antarmuka berbasis web untuk memprediksi sentimen dari ulasan baru secara real-time.
 
